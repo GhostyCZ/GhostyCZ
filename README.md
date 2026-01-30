@@ -1,5 +1,5 @@
 
 - 👋 Hi, im GhostyyCZ
-- Currently learning https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png **Tailwind CSS**
+- Currently learning <img width="1280" height="783" alt="image" src="https://github.com/user-attachments/assets/e6666d28-e497-46b8-9350-5c5867c6bf91" /> **Tailwind CSS**
   
 - [**My Discord Profile**](https://discord.com/users/1330267783761494163)
